@@ -1,0 +1,104 @@
+body {
+    font-family: 'Poppins';
+    box-sizing: border-box;
+}
+
+/*Up ======================================================================================================== */
+
+.links {
+    margin-left: 20%;
+    font-size: 110%;
+}
+
+.notific {
+    margin-left: 80%;
+    color: black;
+}
+
+.sobremim {
+    color: black;
+}
+
+.lolja {
+    margin-left: 65%;
+    color: black;
+}
+
+.forsobre {
+    margin-left: 70%;
+    margin-top: 01rem;
+}
+
+.foremail {
+    margin-top: -1.6rem;
+}
+
+
+.forlolja {
+    margin-top: -1.6rem;
+}
+/*Header ======================================================================================================== */
+header h1 {
+    text-align: center;
+
+    font-family: 'Poppins';
+
+    opacity: 70%;
+
+    font-size: 50px;
+}
+
+header h3 {
+    text-align: center;
+    font-weight: 100;
+    font-size: 25px;
+}
+
+header {
+    margin-top: 10rem;
+}
+
+/*Conteúdo em geral ======================================================================================================== */
+
+#content {
+    margin-top: 4rem;
+    
+}
+
+/*Cards ======================================================================================================== */
+
+
+/*Youtube ======================================================================================================== */
+#youtube h2 {
+    margin-left: 20%;
+    color: black;
+}
+
+#youtube p {
+    margin-left: 20%;
+}
+
+/*Discord ======================================================================================================== */
+#discord h2 {
+    margin-top: -8rem;
+    color: black;
+}
+#discord {
+    margin-left: 50%;
+    margin-top: -8rem;
+}
+/*Instagram ======================================================================================================== */
+#instagram h2 {
+    margin-top: 5rem;
+    color: black ;
+}
+#instagram {
+    margin-left: 20%;
+    margin-top: 5rem;
+}
+
+#linkedin {
+    margin-left: 50%;
+
+    margin-top: -7.5rem;
+}
